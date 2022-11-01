@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Federicocervelli
-- 👀 I’m interested in creating high performance APIs and other back-end software.
 - 🌱 I’m currently learning Computer Science @ UNIPG
 - 📫 Feel free to reach out to me: federicocervelli01@gmail.com
