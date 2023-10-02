@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Federicocervelli
-- 🌱 I’m currently learning Computer Science @ UNIPG
+- 🎓 Bachelor's Degree in Computer Science @ UNIPG
+- 💼 Working at Marittima SRL, Open for hiring
 - 📫 Feel free to reach out to me: federicocervelli01@gmail.com
