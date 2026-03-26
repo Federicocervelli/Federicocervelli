@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Federicocervelli
 - 🎓 Bachelor's Degree in Computer Science @ UNIPG
-- 💼 Currently working full-time at CAEN SPA
-- 🔜 Soon to be working at ELT Group via Overtech Consulting
+- 💼 Currently working full-time at [CAEN](caen.it)
+- 🔜 Soon to be working at [ELT](eltgroup.net) via [Overtech Consulting](https://www.overtechconsulting.com/)
 - 📫 Feel free to reach out to me: federicocervelli01@gmail.com
 
 <p align="left">
